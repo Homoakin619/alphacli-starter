@@ -16,6 +16,8 @@ pnpm-debug.log*
 # Misc
 .DS_Store
 .idea
-.vscode
 package-lock.json
 package.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
